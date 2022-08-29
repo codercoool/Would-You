@@ -44,6 +44,7 @@ jspm_packages/
 # TypeScript v1 declaration files
 typings/
 
+
 # TypeScript cache
 *.tsbuildinfo
 
@@ -105,3 +106,8 @@ dist
 
 # System files
 .DS_Store
+
+
+
+#secrets
+.env
